@@ -1,0 +1,32 @@
+---
+title: "Data Visualization Project"
+author: "Ankur, Dana and Edith"
+date: "11/15/2020"
+output: 
+  flexdashboard::flex_dashboard:
+    storyboard: true
+    source: embed
+---
+
+
+ <font size = "6" color = "blue"> SOUTH BEND DASHBOARD </font>
+
+ The main goal of this project is to <font size="4" color="red"> create a dashboard to show the parks, schools, business and abandoned lots in South Bend. </font> 
+ <br>
+ The user will be able to filter by zip code and can use additional filter on each of the tabs. 
+ <br>
+ 
+ There are three Sections of the Dashboard.
+ Secion 1 - Parks and Schools
+ Section 2 - Businesses and Abandoned Lots
+ Section 3 - Summary Data
+ 
+ The user will be able to zoom in/out on the map based on their selection and can see what is nearby.
+ 
+ 
+ 
+
+<font size="4" color="blue"> Project Team Members: </font> <br>
+<font size="3" color="blue"><li> Ankur Sharma </li>
+<li> Dan Nyugen </li>
+<li> Edith Castro </li></font> <br>
